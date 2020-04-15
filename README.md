@@ -45,8 +45,11 @@ Experimenting with the different layouts of flexbox and css grid.
 - Easy to reorder boxes
 - **Disadvantage**: Works only in 1-D
 - Flex container is like a wrapper
-- Flex items live inside the Flex container, only the direct children of the flex container are considered flex items!
-- Flex-basis = "width" like a relative number, never use the width property on flex items, always use flex-basis because width is an absolute number, flex basis is more flexible
+- Flex items live inside the Flex container, only the direct children of the
+  flex container are considered flex items!
+- Flex-basis = "width" like a relative number, never use the width property on
+  flex items, always use flex-basis because width is an absolute number, flex
+  basis is more flexible
 
 ### Responsive images
 

@@ -4,20 +4,13 @@ Created by Vince Chang </br>
 
 Experimenting with the different layouts of flexbox and css grid.
 
-### Cupcakes
+### USEFUL LINKS
 
-- Description: This app was built to .
-- Useful links:
-  ![Flexbox-grid](http://flexboxgrid.com/)
-  ![Flexbox-froggy](https://flexboxfroggy.com/)
-  ![Flexbox-defense](http://www.flexboxdefense.com/)
+![Flexbox-grid](http://flexboxgrid.com/) </br>
+![Flexbox-froggy](https://flexboxfroggy.com/) </br>
+![Flexbox-defense](http://www.flexboxdefense.com/) </br>
 
-### Questions:
-
-    1. Ask a question here
-       - answer
-
-### Defining Responsive Design
+### DEFINING RESPONSIVE DESIGN
 
 - 3 Characteristics of Responsive Design:
   1. Media Queries
@@ -30,7 +23,7 @@ Experimenting with the different layouts of flexbox and css grid.
   3. Grid base layout
      - consist of columns and rows
 
-### Floats
+### FLOATS
 
 - Was used in the past for layout of webpages as a hack after table layouts
 - features rows and cells
@@ -38,7 +31,7 @@ Experimenting with the different layouts of flexbox and css grid.
 - source order determines the display
 - **Major Disadvantage** is that floats have equal column heights
 
-### Flexbox
+### FLEXBOX
 
 - Parent (flex container) and child (flex item)
 - Good for centering
@@ -51,7 +44,7 @@ Experimenting with the different layouts of flexbox and css grid.
   flex items, always use flex-basis because width is an absolute number, flex
   basis is more flexible
 
-### Responsive images
+### RESPONSIVE IMAGES
 
 - Images that should change size based on screen resolution
 - Load times might be long

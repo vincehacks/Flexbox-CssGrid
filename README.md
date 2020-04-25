@@ -6,9 +6,9 @@ Experimenting with the different layouts of flexbox and css grid.
 
 ### USEFUL LINKS
 
-![Flexbox-grid](http://flexboxgrid.com/) </br>
-![Flexbox-froggy](https://flexboxfroggy.com/) </br>
-![Flexbox-defense](http://www.flexboxdefense.com/) </br>
+[Flexbox-grid](http://flexboxgrid.com/) </br>
+[Flexbox-froggy](https://flexboxfroggy.com/) </br>
+[Flexbox-defense](http://www.flexboxdefense.com/) </br>
 
 ### DEFINING RESPONSIVE DESIGN
 
